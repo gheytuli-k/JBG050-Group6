@@ -23,3 +23,14 @@ The 'data_preprocessing.ipynb' contains codes for initial data preprocessing and
 - The different types of prediction models and performance results are contained in the 'Prediction Model.ipynb'<br>
 - Run 'Prediction Model.ipynb' <br>
 
+5. **Prediction models for Barnet**<br>
+- Model training for the burglary prediction of whole Barnet <br>
+- Run 'BarnetModel.ipynb'
+
+6. **Barnet burlgary location analysis**<br>
+- All the analysis that was done on the location of the burglaries and their geographical placement in LSOAs <br>
+- Run 'Barnet visual.ipynb'
+
+7. **Relation between busstops and burglaries**<br>
+- All the analysis around the relation of busstops locations and the burlgaries location <br>
+- Run 'BusStop.ipynb'
