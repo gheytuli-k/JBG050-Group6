@@ -4,6 +4,7 @@ This is a repository for the course Data Challenge 2(JBG050) of Group 6 <br>
 1. **Download the data**<br>
 - The original datasets are available on UK police website: https://data.police.uk/data/<br>
 - Choose Archive and download the data from December 2010 to January 2023<br>
+- The bus stop locations data can be downloaded from official website: https://data.london.gov.uk/dataset/tfl-bus-stop-locations-and-routes <br>
 
 2. **Reorganize the data storage**<br>
 We have reorganized the dataset folders for improved organization. Each folder now contains records spanning across all months. Specifically, the Crime Data, Outcome Data, and Street Data folders now encompass comprehensive data for all months. <br>
